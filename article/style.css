@@ -1,6 +1,12 @@
-h1 {
-    font-size: 36px;
-    color: rgba(0,0,0,.8);
+h1, figcaption {
+    font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
     text-align: center;
-  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
-  };
+  }
+  
+  h1 {
+    color: rgba(0,0,0,.8);
+    font-size: 36px;
+  }
+  figcaption {
+    font-size: 11px;
+  }
