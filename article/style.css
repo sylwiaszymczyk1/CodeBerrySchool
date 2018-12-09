@@ -10,3 +10,7 @@ h1, figcaption {
   figcaption {
     font-size: 11px;
   }
+  img {
+    height: auto;
+    width: 100%;
+  }
